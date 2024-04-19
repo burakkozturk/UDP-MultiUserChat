@@ -1,0 +1,4 @@
+@echo off
+start cmd /k java -classpath "D:\Burak\Udp-MultiChat\untitled\out\production\untitled" UDPClient Client1 localhost 4445
+start cmd /k java -classpath "D:\Burak\Udp-MultiChat\untitled\out\production\untitled" UDPClient Client2 localhost 4445
+start cmd /k java -classpath "D:\Burak\Udp-MultiChat\untitled\out\production\untitled" UDPClient Client3 localhost 4445
